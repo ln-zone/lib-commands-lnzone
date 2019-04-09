@@ -15,6 +15,11 @@
 	<dependencies>
 		<dependency>
 			<groupId>bittech</groupId>
+			<artifactId>lib-commands-ln</artifactId>
+			<version>0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>bittech</groupId>
 			<artifactId>lib-protocol</artifactId>
 			<version>0.1</version>
 		</dependency>
