@@ -1,4 +1,4 @@
-package bittech.lib.commands.lnzone.commans;
+package bittech.lib.commands.lnzone.external;
 
 import bittech.lib.protocol.Response;
 

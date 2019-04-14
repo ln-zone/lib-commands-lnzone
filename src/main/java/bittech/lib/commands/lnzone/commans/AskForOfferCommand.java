@@ -1,5 +1,6 @@
 package bittech.lib.commands.lnzone.commans;
 
+import bittech.lib.commands.lnzone.internal.GetOfferResponse;
 import bittech.lib.protocol.Command;
 import bittech.lib.protocol.common.NoDataRequest;
 

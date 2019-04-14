@@ -1,5 +1,6 @@
-package bittech.lib.commands.lnzone.commans;
+package bittech.lib.commands.lnzone.internal;
 
+import bittech.lib.commands.lnzone.commans.Offer;
 import bittech.lib.protocol.Command;
 import bittech.lib.protocol.common.NoDataResponse;
 import bittech.lib.utils.Require;
